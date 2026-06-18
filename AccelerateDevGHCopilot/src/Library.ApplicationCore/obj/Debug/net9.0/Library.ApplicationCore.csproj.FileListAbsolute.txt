@@ -1,0 +1,12 @@
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/bin/Debug/net9.0/Library.ApplicationCore.deps.json
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/bin/Debug/net9.0/Library.ApplicationCore.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/bin/Debug/net9.0/Library.ApplicationCore.pdb
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.AssemblyInfoInputs.cache
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.AssemblyInfo.cs
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.csproj.CoreCompileInputs.cache
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.sourcelink.json
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/refint/Library.ApplicationCore.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/Library.ApplicationCore.pdb
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.ApplicationCore/obj/Debug/net9.0/ref/Library.ApplicationCore.dll

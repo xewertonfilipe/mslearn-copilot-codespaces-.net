@@ -1,0 +1,16 @@
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/bin/Debug/net9.0/Library.Infrastructure.deps.json
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/bin/Debug/net9.0/Library.Infrastructure.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/bin/Debug/net9.0/Library.Infrastructure.pdb
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/bin/Debug/net9.0/Library.ApplicationCore.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/bin/Debug/net9.0/Library.ApplicationCore.pdb
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.csproj.AssemblyReference.cache
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.AssemblyInfoInputs.cache
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.AssemblyInfo.cs
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.csproj.CoreCompileInputs.cache
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.sourcelink.json
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library..FAF1E3BF.Up2Date
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/refint/Library.Infrastructure.dll
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.pdb
+/workspaces/mslearn-copilot-codespaces-.net/AccelerateDevGHCopilot/src/Library.Infrastructure/obj/Debug/net9.0/ref/Library.Infrastructure.dll
